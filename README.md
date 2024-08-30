@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 
 
 📫 Contact me:
-<p align="center">
-  **[LinkedIn](https://www.linkedin.com/in/zdenk%C3%B3-gera-952543309/)**
-</p>
+  *[LinkedIn](https://www.linkedin.com/in/zdenk%C3%B3-gera-952543309/)*
