@@ -1,21 +1,8 @@
 ## Hi there 👋
 
-<!--
-**zdenko-gera/zdenko-gera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Szobaberles.hu
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+I am Zdenkó Gera founder of *[Szobaberles.hu](https://www.szobaberles.hu/)* and student of University of Szeged (Computer Science BSc.).
 
 📫 Contact me:
-  *[LinkedIn](https://www.linkedin.com/in/zdenk%C3%B3-gera-952543309/)*
+on *[LinkedIn](https://www.linkedin.com/in/zdenk%C3%B3-gera-952543309/)*,
+on *[Facebook](https://www.facebook.com/zdenko.gera)*,
+and on *[Instagram](https://www.instagram.com/zdenko_gera/)*
