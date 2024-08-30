@@ -7,4 +7,4 @@ on *[LinkedIn](https://www.linkedin.com/in/zdenk%C3%B3-gera-952543309/)*,
 on *[Facebook](https://www.facebook.com/zdenko.gera)*,
 and on *[Instagram](https://www.instagram.com/zdenko_gera/)*
 
-<img src="https://github.com/user-attachments/assets/ccdf19c2-067f-4810-97e7-e209ea2c5bda" style="width: 10rem; margin-inline: auto;">
+<img src="https://github.com/user-attachments/assets/ccdf19c2-067f-4810-97e7-e209ea2c5bda" style="width: 10rem;">
