@@ -12,8 +12,8 @@ and on *[Instagram](https://www.instagram.com/zdenko_gera/)*
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="550mm"
-   height="300mm"
+   width="55mm"
+   height="30mm"
    viewBox="0 0 550 300"
    version="1.1"
    id="svg1"
