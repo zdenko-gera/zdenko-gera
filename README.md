@@ -1,4 +1,4 @@
-![szobaberles-icon](https://github.com/user-attachments/assets/275cf150-7cdb-486d-8794-f38cc4a247d8)## Hi there 👋
+## Hi there 👋
 
 I am Zdenkó Gera founder of *[Szobaberles.hu](https://www.szobaberles.hu/)* and student of University of Szeged (Computer Science BSc.).
 
@@ -12,8 +12,8 @@ and on *[Instagram](https://www.instagram.com/zdenko_gera/)*
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="55mm"
-   height="30mm"
+   width="2rem"
+   height="1.2rem"
    viewBox="0 0 550 300"
    version="1.1"
    id="svg1"
