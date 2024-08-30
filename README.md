@@ -11,4 +11,4 @@ and on *[Instagram](https://www.instagram.com/zdenko_gera/)*
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<img src="https://github.com/user-attachments/assets/ccdf19c2-067f-4810-97e7-e209ea2c5bda" width="3rem">
+<img src="https://github.com/user-attachments/assets/ccdf19c2-067f-4810-97e7-e209ea2c5bda" width="40">
