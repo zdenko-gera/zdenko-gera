@@ -15,8 +15,7 @@ or *[Instagram](https://www.instagram.com/zdenko_gera/)*
   
 ⭐ I love:
 <ul>
-  <li>Web development (both front-end and back-end) - It gives me freedom and the final product is useful</li>
-  <li>Image processing - I love how much data that can be extracted from images</li>
+  <li>Web development (both front-end and back-end)</li>
 </ul>  
   
 📝 I am learning:
