@@ -18,10 +18,9 @@ or *[Instagram](https://www.instagram.com/zdenko_gera/)*
   <li>Web development (both front-end and back-end)</li>
 </ul>  
   
-📝 I am learning:
+📝 Experimenting with:
 <ul>
-  <li>Mobile development</li>
-  <li>SAP development</li>
+  <li>Arduino</li>
 </ul>  
   
 🏖️ In my freetime:
