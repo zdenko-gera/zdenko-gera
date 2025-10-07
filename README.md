@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-🙋‍♂️ I am Zdenkó Gera, founder of *[Szobaberles.hu](https://www.szobaberles.hu/)* and student at University of Szeged (Computer Science BSc).
+🙋‍♂️ I’m Zdenkó Gera, a recent Computer Science graduate.
   
 📫 You can find me
 on *[LinkedIn](https://www.linkedin.com/in/zdenk%C3%B3-gera-952543309/)*,
  *[Facebook](https://www.facebook.com/zdenko.gera)*,
 or *[Instagram](https://www.instagram.com/zdenko_gera/)*  
 
-👩🏻‍💻 Projects I am currently working on:
+👩🏻‍💻 Projects I am currently working on or I am proud of:
 <ul>
+  <li>Home DNS server using a Raspberry Pi and open-source software</li>
   <li>Szobaberles.hu - Webapp for easier roommate search in Hungary</li>
   <li>Rubik's Cube Solver - My self-chosen BSc thesis built with Laravel and VanillaJS: CRUD operations, 3D modelling using Three.js, algorithms...</li>
+  <li>Website for a Hungarian foundation (see later)</li>
 </ul>  
   
 ⭐ I love:
@@ -20,6 +22,7 @@ or *[Instagram](https://www.instagram.com/zdenko_gera/)*
   
 📝 Experimenting with:
 <ul>
+  <li>Raspberry Pi</li>
   <li>Arduino</li>
 </ul>  
   
@@ -28,4 +31,5 @@ or *[Instagram](https://www.instagram.com/zdenko_gera/)*
   <li>I learn languages (currently german)</li>
   <li>I read non-fiction books</li>
   <li>I do sports</li>
+  <li>I play the guitar</li>
 </ul>  
